@@ -130,7 +130,7 @@ body{
 }
 
 .header .header-container .main-header .nav-bar ul li{
-        font-size: 2rem;
+        font-size: 2.5rem;
         padding-left: 3rem;
         font-weight: bold;
 }
@@ -175,7 +175,7 @@ body{
 
 .header .header-container .bot-nav-bar ul li{
         padding: 0 1.5rem;
-        font-size: 2rem;
+        font-size: 2.5rem;
         font-weight: bold;
 }
 
